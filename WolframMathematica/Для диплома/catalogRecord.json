@@ -1,0 +1,51 @@
+{
+  "comEvInfo": {
+    "db": {
+      "label": "Распадская-local",
+      "DBName": "",
+      "HostOfServer": "",
+      "NameOfServer": "",
+      "user": "",
+      "password": "",
+      "UTC_timezone": 7,
+      "connectTimeout": 2,
+      "security": "SSPI",
+      "SQL2000": false,
+      "_CADPath": "",
+      "warningEnergy": 0.0,
+      "CADPath": "",
+      "fullServerName": "\\",
+      "isValid": true
+    },
+    "timeMine": "2018-03-17T12:19:51",
+    "timeComputer": "2018-03-17T08:19:51",
+    "passed": "361д 4ч  назад",
+    "mineTimeVerbose": "17.03.2018, 12:19",
+    "mineTimeUTCVerbose": "17.03.2018, 12:19 UTC+7"
+  },
+  "number": 0,
+  "temp_number": 0,
+  "timeMine": "2018-03-17T12:19:51",
+  "isExplosion": false,
+  "eventType": "Событие",
+  "E": 140.55500768709359,
+  "x": 57265.0,
+  "y": 73138.0,
+  "z": 106.0,
+  "xyz": [
+    57265.0,
+    73138.0,
+    106.0
+  ],
+  "coordsComputed": true,
+  "isValid": true,
+  "impactRadius": 15.0,
+  "origin": {
+    "IsEmpty": false,
+    "X": 57265.0,
+    "Y": 73138.0
+  },
+  "isExplStr": "Нет",
+  "mineTimeStr": "17.03.2018, 12:19",
+  "stringRepr": "361д 4ч  назад\r\n17.03.2018, 12:19 UTC+7\r\n140,56 дж."
+}
